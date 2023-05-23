@@ -1,0 +1,21 @@
+.formuls_7 {
+    display: flex;
+    justify-content: center;
+    height: 33%;
+}
+
+.formul {
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+.formuls_title {
+    display: flex;
+    justify-content: center;
+
+}
+
+.formuls_panel {
+    background-color: rgb(39, 39, 39);
+    padding: 15px, 35px;
+}
