@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Phisic_diplom_work_react/static/css/main.eacdaca0.css",
-    "main.js": "/Phisic_diplom_work_react/static/js/main.8ba0eec4.js",
+    "main.css": "/Phisic_diplom_work_react/static/css/main.ab766cb5.css",
+    "main.js": "/Phisic_diplom_work_react/static/js/main.bbb2652a.js",
     "static/js/787.28cb0dcd.chunk.js": "/Phisic_diplom_work_react/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/Phisic_diplom_work_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Phisic_diplom_work_react/index.html",
-    "main.eacdaca0.css.map": "/Phisic_diplom_work_react/static/css/main.eacdaca0.css.map",
-    "main.8ba0eec4.js.map": "/Phisic_diplom_work_react/static/js/main.8ba0eec4.js.map",
+    "main.ab766cb5.css.map": "/Phisic_diplom_work_react/static/css/main.ab766cb5.css.map",
+    "main.bbb2652a.js.map": "/Phisic_diplom_work_react/static/js/main.bbb2652a.js.map",
     "787.28cb0dcd.chunk.js.map": "/Phisic_diplom_work_react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eacdaca0.css",
-    "static/js/main.8ba0eec4.js"
+    "static/css/main.ab766cb5.css",
+    "static/js/main.bbb2652a.js"
   ]
 }
